@@ -10,6 +10,7 @@ Launch a web browser:
 ```
 
 Source: 
-	https://github.com/mbostock/d3/wiki
-	
-	http://alignedleft.com/tutorials/d3
+
+https://github.com/mbostock/d3/wiki
+
+http://alignedleft.com/tutorials/d3
